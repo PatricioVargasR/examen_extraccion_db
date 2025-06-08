@@ -64,29 +64,6 @@ if file:
         # 4. Filtrado de filas
         st.header("4. Filtrado de filas")
 
-        # if st.checkbox("4.1 Filtrar filas con condición"):
-
-        #     num_cols = df.columns.tolist()
-        #     if not num_cols:
-        #         st.warning("No hay columnas numéricas disponibles para filtrar.")
-        #     else:
-        #         col = st.selectbox("Selecciona columna:", num_cols)
-
-        #         if pd.api.types.is_numeric_dtype(df[col]):
-        #             operador = st.selectbox("Operador:", [">", "<", "=="])
-        #             valor = st.number_input("Valor para filtrar:")
-        #         elif pd.api.types.is_string_dtype(df[col]):
-        #             valor = st.text_input("Valor para filtrar:")
-        #             operador = st.selectbox("Operador:", ["=="])
-
-        #         else:
-        #             st.warning("Tipo de dato no soportado para filtrar.")
-        #             valor = None
-
-        #         resultado = filtrar_filas(df, col, operador, valor)
-        #         st.write(f"{len(resultado)} filas encontradas:")
-        #         st.dataframe(resultado)
-
         if st.checkbox("4.1 Filtrar filas con múltiples condiciones"):
 
             columnas_disponibles = df.columns.tolist()
