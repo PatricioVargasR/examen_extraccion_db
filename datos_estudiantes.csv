@@ -1,0 +1,101 @@
+nombre,matricula,carrera,cal_asignatura1,cal_asignatura2,cal_asignatura3
+Alejandra Sánchez Sánchez,A00001,Psicología,60,69,52
+Luis Pérez Martínez,A00002,Ingeniería en Sistemas,87,93,83
+María Rodríguez Rodríguez,A00003,Arquitectura,97,66,86
+Valeria Pérez Torres,A00004,Contaduría,58,99,88
+Valeria Torres Pérez,A00005,Administración,70,87,91
+David Martínez Martínez,A00006,Biología,99,78,62
+Fernanda Torres Sánchez,A00007,Contaduría,50,74,66
+Valeria González Martínez,A00008,Arquitectura,65,54,63
+María Torres Hernández,A00009,Biología,58,68,75
+Valeria Martínez Pérez,A00010,Biología,60,60,63
+Laura López González,A00011,Arquitectura,97,74,57
+Camila González Hernández,A00012,Economía,75,83,87
+José García García,A00013,Contaduría,95,77,50
+José García López,A00014,Contaduría,59,86,61
+Pedro Ramírez García,A00015,Administración,80,66,65
+Miguel López Sánchez,A00016,Psicología,78,99,77
+Alejandra López Sánchez,A00017,Contaduría,70,66,91
+Sofía López Sánchez,A00018,Contaduría,77,82,79
+Miguel González García,A00019,Diseño Gráfico,74,53,54
+José Sánchez González,A00020,Derecho,51,87,88
+Carlos García Hernández,A00021,Biología,71,93,76
+Ana Martínez López,A00022,Psicología,57,56,98
+José Martínez Martínez,A00023,Contaduría,87,71,74
+Fernanda González Ramírez,A00024,Medicina,99,92,96
+Diego López Hernández,A00025,Psicología,75,96,57
+Laura Torres Torres,A00026,Derecho,68,50,87
+Diego Torres Pérez,A00027,Diseño Gráfico,77,94,68
+Ana García González,A00028,Contaduría,86,65,58
+Luis Hernández González,A00029,Arquitectura,94,75,80
+Ricardo García Rodríguez,A00030,Biología,90,65,68
+Ana García Hernández,A00031,Medicina,96,55,94
+Alejandra Sánchez Sánchez,A00032,Derecho,50,79,86
+Paola López Sánchez,A00033,Medicina,87,87,61
+José Rodríguez Torres,A00034,Administración,62,89,67
+Alejandra Hernández Hernández,A00035,Contaduría,89,57,94
+Sofía Pérez Ramírez,A00036,Arquitectura,84,50,55
+María Pérez Torres,A00037,Administración,95,53,94
+Ana López Rodríguez,A00038,Economía,93,66,65
+Miguel Ramírez López,A00039,Ingeniería en Sistemas,60,54,96
+Sofía López López,A00040,Diseño Gráfico,82,70,67
+Alejandra Ramírez Rodríguez,A00041,Diseño Gráfico,92,83,87
+Valeria Ramírez Rodríguez,A00042,Contaduría,98,65,62
+José García Torres,A00043,Medicina,63,65,67
+Paola Ramírez Pérez,A00044,Ingeniería en Sistemas,72,64,66
+Andrés González Sánchez,A00045,Diseño Gráfico,74,86,57
+Valeria Pérez García,A00046,Economía,100,69,53
+Laura González Ramírez,A00047,Arquitectura,56,54,57
+Sofía Pérez Ramírez,A00048,Derecho,66,57,91
+Camila Torres García,A00049,Diseño Gráfico,91,90,75
+Diego González Torres,A00050,Biología,57,63,51
+Ricardo Martínez Torres,A00051,Derecho,63,57,65
+María Martínez Pérez,A00052,Derecho,100,76,53
+María Torres Rodríguez,A00053,Medicina,68,73,70
+Laura Pérez Torres,A00054,Administración,65,57,62
+Ricardo Torres Sánchez,A00055,Derecho,60,97,95
+Ricardo López Rodríguez,A00056,Medicina,64,54,71
+Pedro Pérez Martínez,A00057,Medicina,86,87,70
+Camila Torres Ramírez,A00058,Arquitectura,83,74,77
+Daniela López Martínez,A00059,Arquitectura,99,63,78
+Andrés Rodríguez González,A00060,Medicina,67,86,52
+Fernanda García Pérez,A00061,Arquitectura,79,55,53
+Diego García López,A00062,Economía,70,89,71
+Alejandra Pérez López,A00063,Ingeniería en Sistemas,90,81,53
+Laura Sánchez García,A00064,Ingeniería en Sistemas,94,52,80
+David Rodríguez Hernández,A00065,Diseño Gráfico,93,58,87
+Paola Torres Martínez,A00066,Contaduría,89,85,62
+Pedro García Pérez,A00067,Arquitectura,75,98,91
+Miguel Hernández Martínez,A00068,Biología,67,72,83
+Paola Rodríguez Torres,A00069,Psicología,52,81,65
+Sofía Rodríguez Torres,A00070,Derecho,67,64,72
+José Torres Rodríguez,A00071,Arquitectura,94,94,81
+Paola García Rodríguez,A00072,Contaduría,90,55,78
+Jorge Hernández Ramírez,A00073,Contaduría,52,67,79
+Pedro Martínez García,A00074,Psicología,85,84,92
+María Rodríguez López,A00075,Arquitectura,64,77,71
+Miguel Ramírez Torres,A00076,Ingeniería en Sistemas,86,55,96
+Luis Ramírez García,A00077,Administración,90,60,60
+Miguel Torres Martínez,A00078,Economía,97,91,95
+Paola Martínez Martínez,A00079,Derecho,73,62,87
+Alejandra Hernández Torres,A00080,Biología,77,61,97
+Valeria García Torres,A00081,Ingeniería en Sistemas,55,89,71
+David González Sánchez,A00082,Diseño Gráfico,60,99,78
+Andrés García Ramírez,A00083,Psicología,65,69,68
+Miguel Pérez García,A00084,Economía,65,57,56
+Miguel Sánchez Rodríguez,A00085,Contaduría,76,59,69
+Pedro Sánchez Ramírez,A00086,Medicina,66,87,73
+Pedro Ramírez Sánchez,A00087,Ingeniería en Sistemas,82,70,83
+María Hernández Ramírez,A00088,Biología,81,60,90
+Andrés González Sánchez,A00089,Psicología,71,60,81
+Miguel Hernández Ramírez,A00090,Derecho,100,89,85
+Fernanda López Pérez,A00091,Diseño Gráfico,57,91,95
+Fernanda Hernández Sánchez,A00092,Ingeniería en Sistemas,52,80,70
+Jorge Pérez García,A00093,Medicina,97,87,63
+Fernanda García Pérez,A00094,Contaduría,91,73,84
+Alejandra Pérez Pérez,A00095,Economía,94,71,85
+David Martínez Ramírez,A00096,Administración,78,77,72
+Ana Pérez Torres,A00097,Administración,86,83,99
+Miguel Rodríguez Hernández,A00098,Diseño Gráfico,91,95,79
+Miguel Torres González,A00099,Psicología,90,76,59
+Luis Pérez López,A00100,Derecho,72,80,60
