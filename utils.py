@@ -34,17 +34,6 @@ def obtener_forma(df):
 def seleccionar_columnas(df, columnas):
     return df[columnas]
 
-# def filtrar_filas(df, columna, operador, valor):
-
-#     if operador == ">":
-#         return df[df[columna] > valor]
-#     elif operador == "<":
-#         return df[df[columna] < valor]
-#     elif operador == "==":
-#         return df[df[columna] == valor]
-#     else:
-#         return pd.DataFrame()  # Retorna vacío si operador no válido
-
 def filtrar_filas_multiples(df, condiciones):
     resultado = df.copy()
     for condicion in condiciones:
